@@ -6,7 +6,7 @@
 1. git
     - Download project
         ```
-        git clone https://nas.pdogs.ntu.im:30443/pdogs/pdogs-6/our-blog.git
+        git clone https://github.com/wsa-2002/Fastapi-EntryTask-Template.git
         ```
     - Create a new branch
         ```
@@ -33,7 +33,7 @@
 2. conda env
     - Create a new environment
         ```
-        conda create --name my-blog python=3.8
+        conda create --name my-blog python=3.10
         ```
     - Activate environment
         ```
